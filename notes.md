@@ -17,5 +17,13 @@ mkdir GitTest
   538  git push -u origin master
   539  vim notes.md
   540  history
+  541  vim notes.md
+  542  git history
+  543  git --help
+  544  git status
+  545  git add .
+  546  git commit -m "Initial commit after clone, added notes.md"
+  547  git push
+  548  history
 
 
